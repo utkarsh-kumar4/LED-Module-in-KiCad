@@ -25,11 +25,11 @@ component placement and final board appearance.
 
 <h2>📷 Project Images</h2>
 <h3>🔹 Schematic Design</h3>
-<p><img src="schematic.png" alt="Schematic"></p>
+<p><img src="https://github.com/utkarsh-kumar4/LED-Module-in-KiCad/blob/main/Schematic%20Design.png" alt="Schematic"></p>
 <h3>🔹 PCB Layout</h3>
-<p><img src="pcb_layout.png" alt="PCB Layout"></p>
+<p><img src="https://github.com/utkarsh-kumar4/LED-Module-in-KiCad/blob/main/PCB%20Layout.png" alt="PCB Layout"></p>
 <h3>🔹 3D Board View</h3>
-<p><img src="pcb_3d.png" alt="3D PCB"></p>
+<p><img src="https://github.com/utkarsh-kumar4/LED-Module-in-KiCad/blob/main/3D%20Board%20View.png" alt="3D PCB"></p>
 
 ## Author 👤
 [Utkarsh Kumar](https://github.com/utkarsh-kumar4) 👨🏻‍💻🎓
